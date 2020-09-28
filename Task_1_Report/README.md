@@ -17,6 +17,7 @@ Koneksi gagal secara spektakuler, jembatan lantai empat dan lantai dua jatuh ke 
 
 ### Explain the design error
 ![img](design_error1.jpeg)
+![img](design_error2.jpeg)
 
 Detail batang gantungan yang sebenarnya digunakan dalam pembangunan trotoar lantai dua dan empat adalah penyimpangan dari detail yang ditunjukkan pada gambar kontrak. Konfigurasi batang gantungan yang benar-benar digunakan terdiri dari dua batang gantungan: segmen batang gantungan lantai empat ke langit-langit seperti yang dirinci semula pada segmen lantai dua sampai lantai empat yang diimbangi ke dalam 4 inci (102 mm) sepanjang sumbu balok kotak. Dengan modifikasi ini, beban desain yang akan ditransfer oleh setiap sambungan batang gantungan balok kotak lantai dua tidak berubah, begitu pula beban pada segmen batang gantungan atas dan bawah. Namun, beban yang akan dipindahkan dari balok kotak lantai empat ke batang gantungan atas di bawah pengaturan ini pada dasarnya berlipat ganda, sehingga memperburuk kondisi yang sudah kritis. Beban desain untuk sambungan batang gantungan balok di lantai empat adalah 40,7 kips (181 kN) untuk konfigurasi ini.
 
