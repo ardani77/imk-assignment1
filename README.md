@@ -8,8 +8,6 @@
 ## Manga id
 Aplikasi yang kami pilih adalah Manga id. Manga id merupakan aplikasi baca komik online dengan lebih dari 1000 judul komik yang sudah ditranslate kedalam bahasa Indonesia. Beragam komik mulai dari Manga, Manhwa, sampai Manhua tersedia dalam aplikasi ini dan dapat dibaca secara gratis. Developer dari aplikasi ini adalah DnY Dev
 
-## Task 1 (Manga id Flaws and Key Business Process)
+## Task 1 
 
-## Task 2 (Sprint Design)
-
-### Link video
+## Task 2
