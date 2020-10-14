@@ -5,4 +5,4 @@ https://www.youtube.com/watch?v=X9S4GnMKhkk&feature=youtu.be
 
 ## Day 3 (Sunday, 11 Oct 2020)
 
-## Day 4
+## Day 4 (Thursday, 15 Oct 2020)
