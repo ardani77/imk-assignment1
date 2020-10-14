@@ -1,0 +1,64 @@
+Ardani : We have found the app, manga id, have you seen it yet ?
+Asyraf and Ridwan : Already
+Ardani : What do you think about the problem on the app ?
+Asyraf : I think, the first is appearance
+Asyraf : The second, the profile doesn't exist
+Asyraf : What do you think ridwan ?
+Ridwan : In my opinion, this app has a manga theme. 
+Ridwan : In this app, there is no genre menu
+Ridwan : So, that user can easily find the genre they like
+Ridwan : For example, the action genre
+Ridwan : To make it easier for users because they are sorted
+Ridwan : What do you think ardani ?
+Ardani : In my opinion, the update feature and hot comic feature are switched
+Ardani : And i think the hot comic and recommendation are better put together
+Ardani : In the app there is a profile
+Asyraf : In the app, the profile only has a login feature
+Asyraf : In the profile, there is no edit profile feature
+Asyraf : there is only a google account on the profile
+Asyraf : when user want to edit a profile, user must change google account
+Ridwan : does it mean, when user login and without login it's the same ?
+Asyraf : ya, even without login, user can enter the app
+Ridwan : means there is no difference ?
+Ardani : like a guest
+Ardani : but in the profile for what ? comment ?
+Asyraf : there are no comment feature here
+Asyraf : here, all comics are free, right ?
+Asyraf : there is no payment too
+Asyraf : so, user don't need a login feature
+Ardani : some are paid, premium feature
+Asyraf : what's the premium function ?
+Ardani : so that there are no ads
+Asyraf : seems like there are no ads
+Ridwan : there are ads
+Ridwan : in the detail, the display is too complicated
+Ridwan : the display is not simple
+Ridwan : all chapter must be put together
+Ardani : so, do you think the chapter and explanation should be separated ?
+Ridwan : ya, if it look like this, it's unsightly
+Ardani : there is no time in this app
+Asyraf : release time, huh ?
+Ardani : ya, in my opinion, that's the most important thing
+Ardani : so, you know what updates are available today
+Ardani : is there anything else ?
+Ridwan : what have we discussed earlier ? genre ?
+Ardani : genre, display, profile
+Ardani : the setting feature is better replaced by a profile
+Ardani : have you logged in yet ?
+Ridwan : the hot comic and recommendation are better put together ?
+Ardani : ya
+Asyraf : or one of it's features is removed
+Ardani : time
+Ridwan : time and the update view that was raised is not the recommendation view
+Ridwan : do you think when we press privacy policy in the app and redirect us to a website
+Ridwan : which is better, redirect to the app itself or exit the app ?
+Ardani : it looks like it better points to the app itself
+Ridwan : just to make it more comfortable, so that user don't leave the app while using the app
+Ardani : it looks like the privacy policy is just a link, it has been made from early
+Ridwan : so, developer just sent the link to the app ?
+Ardani : in the app is just a link
+Ardani : but if developer want to put it in the app can too, to make it easier for the user
+Ardani : is there anything else ?
+Ridwan : that's all in my opinion
+Ardani : is there anything else ?
+Asyraf : that's all in my opinion too
