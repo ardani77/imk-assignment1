@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=qjspe6dG1U0
 ## Day 3 (Sunday, 11 Oct 2020)
 
 ## Day 4 (Thursday, 15 Oct 2020)
+
+ Video on YouTube
+https://youtu.be/TZ8GbCAe9zU
